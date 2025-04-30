@@ -28,7 +28,7 @@ I am skilled in creating intelligent systems that integrate AI with hardware, us
 - ✅ Developing Text-to-Speech (TTS) systems
 - ✅ Object Detection and Image Segmentation
 - ✅ Optical Character Recognition (OCR)
-- ✅ MCP (Model Context Protocol)
+- ✅ Model Context Protocol (MCP)
 
 ### 🔧 Tools Used
 
