@@ -2,9 +2,10 @@
 <h3 align="center">AI Developer | Enthusiast of AI and Intelligent Systems</h3>
 
 <p align="center">
-  <a href="https://huggingface.co/FILM6912" target="_blank">🤗 Hugging Face</a> •
-  <a href="https://github.com/watcharaphon6912" target="_blank">💻 GitHub</a>
+  <a href="https://huggingface.co/FILM6912" target="_blank">🤗 Hugging Face (Model & datasets)</a> •
+  <a href="https://github.com/watcharaphon6912" target="_blank">💻 GitHub (Code)</a>
 </p>
+
 
 ---
 
