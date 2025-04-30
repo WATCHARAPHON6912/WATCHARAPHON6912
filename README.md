@@ -17,7 +17,8 @@ I am skilled in creating intelligent systems that integrate AI with hardware, us
 ---
 
 ## 🧠 AI and Machine Learning Skills
-
+<!-- <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="60" height="60" />
+<img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="60" height="60" /> -->
 
 
 ### 💡 Expertise
@@ -45,7 +46,7 @@ I am skilled in creating intelligent systems that integrate AI with hardware, us
 - 🚀 **NVIDIA Jetson Nano, Raspberry Pi**
 - 🛠️ **PLC (Siemens, Mitsubishi)**
 - 📡 **Microcontrollers**: PIC, ATMega, ESP32, ESP8266
-- 🔌 **Protocols**: Modbus, Serial, UART, I2C
+- 🔌 **Protocols**: Modbus, UART, I2C
 
 ---
 
@@ -58,4 +59,3 @@ I am skilled in creating intelligent systems that integrate AI with hardware, us
 - 🔧 Embedded-C (for microcontrollers)
 
 ---
-
