@@ -17,9 +17,6 @@ I am skilled in creating intelligent systems that integrate AI with hardware, us
 ---
 
 ## 🧠 AI and Machine Learning Skills
-<!-- <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="60" height="60" />
-<img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="60" height="60" /> -->
-
 
 ### 💡 Expertise
 
@@ -59,3 +56,7 @@ I am skilled in creating intelligent systems that integrate AI with hardware, us
 - 🔧 Embedded-C (for microcontrollers)
 
 ---
+
+<!-- <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="60" height="60" />
+<img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" width="60" height="60" /> -->
+
