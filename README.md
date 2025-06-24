@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://huggingface.co/FILM6912" target="_blank">🤗 Hugging Face (Model & datasets)</a> •
-  <a href="https://github.com/watcharaphon6912" target="_blank">💻 GitHub (Code)</a>
+  <a href="https://github.com/film6912" target="_blank">💻 GitHub (Code)</a>
 </p>
 
 
